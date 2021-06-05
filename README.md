@@ -5,7 +5,7 @@
 
 𝐈𝐧𝐬𝐭𝐚𝐥𝐥 👇 👇 👇
 
-* git clone 
+* git clone https://github.com/Sumeet55/IPTracer.git
 * cd IPTracer
 * python3 iptracer.py
 
